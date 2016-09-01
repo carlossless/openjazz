@@ -1,2 +1,2 @@
-*.o
-OpenJazz
+obj/
+bin/

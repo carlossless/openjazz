@@ -52,6 +52,7 @@
 		#include <unistd.h>
 		#include <errno.h>
 		#include <string.h>
+		#define MSG_NOSIGNAL 0
 	#endif
 #elif defined USE_SDL_NET
 	#include <arpa/inet.h>
